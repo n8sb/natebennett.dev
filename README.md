@@ -1,2 +1,2 @@
-# portfolio-gatsby
-Personal portfolio built in gatsby.js
+# natebennett.dev
+Personal portfolio built in gatsby.js and deployed on Netlify
